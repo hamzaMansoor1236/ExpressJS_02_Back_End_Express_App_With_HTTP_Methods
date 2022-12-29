@@ -1,2 +1,1 @@
-# 02_Back_End_Express_App_MVC_folder_structure
- The app consist of the folder structure of Express App with model and controller
+ This is the basic app that deals the PUT POST UPDATE DELETE requests
