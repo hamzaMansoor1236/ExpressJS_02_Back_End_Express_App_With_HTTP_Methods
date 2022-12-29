@@ -1,1 +1,1 @@
- This is the basic app that deals the PUT POST UPDATE DELETE requests
+ This is the basic express app that deals the PUT POST UPDATE DELETE requests
